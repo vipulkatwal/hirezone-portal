@@ -108,7 +108,8 @@ We welcome contributions to HireZone! Please feel free to submit a Pull Request.
 
 ## 📞 Contact
 
-My mail: - [www.vipulkatwal17@gmail.com](www.vipulkatwal17@gmail.com)
+My mail: [www.vipulkatwal17@gmail.com](www.vipulkatwal17@gmail.com)
+
 Project Live Link: [Cilck Here](https://hirezone.vercel.app)
 
 ---
