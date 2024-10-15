@@ -1,10 +1,10 @@
-# 🚀 HireZone: Job Hiring Portal
+# 🚀 Hirezone: Job Hiring Portal
 
-![HireZone Screenshot](./public/hirezone.png)
+![Hirezone Screenshot](./public/hirezone.png)
 
 ## 📝 About
 
-HireZone is a modern job hiring portal that connects job seekers with employers. This innovative platform streamlines the hiring process, making it efficient for both employers and job seekers. Built with modern web technologies, HireZone offers a seamless, responsive, and user-friendly experience.
+Hirezone is a modern job hiring portal that connects job seekers with employers. This innovative platform streamlines the hiring process, making it efficient for both employers and job seekers. Built with modern web technologies, HireZone offers a seamless, responsive, and user-friendly experience.
 
 ## ✨ Features
 
