@@ -25,7 +25,6 @@ Hirezone is a modern job hiring portal that connects job seekers with employers.
 - **Supabase** 🗄️ - An open-source Firebase alternative for backend services
 - **Clerk** 🔐 - User authentication and management
 - **Shadcn UI** 🧩 - A collection of re-usable components built with Radix UI and Tailwind CSS
-- **TypeScript** 📘 - A typed superset of JavaScript for improved developer experience
 - **Vite** ⚡ - Next-generation frontend tooling
 
 ## 🚀 Getting Started
